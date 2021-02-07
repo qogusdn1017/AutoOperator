@@ -1,0 +1,7 @@
+name: AutoOperator
+main: com.baehyeonwoo.autooperator.OPMain
+version: 0.1
+api-version: 1.13
+author: BaeHyeonWoo
+description: "Automatically gives operator permission to any player who joins the server."
+website: "https://baehyeonwoo.com/"
